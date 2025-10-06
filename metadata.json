@@ -1,0 +1,5 @@
+{
+  "name": "Campus Lost & Found AI",
+  "description": "An intelligent lost and found application for students. Report lost or found items using images and descriptions, and let AI help you find a match.",
+  "requestFramePermissions": []
+}
